@@ -6,7 +6,7 @@
   </head>
   <body>
     <div>
-      egzamin
+      egzamin - test
     </div>
   </body>
 </html>
